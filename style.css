@@ -693,7 +693,7 @@ ul{
 
     }
     footer{
-        width: 720px;
+        width: 700px;
     }
    
    .separacion__linea{
@@ -703,24 +703,24 @@ ul{
        margin-left: 500px;
    }
    .cero{
-       margin-left: 350px;
+       margin-left: 330px;
    }
    .primero{
-    margin-left: 400px; 
+    margin-left: 360px; 
    }
    .segundo{
-    margin-left: 408px;
+    margin-left: 400px;
    }
    .tercero{
-    margin-left: 480px;
-   }
-   .cuarto{
     margin-left: 450px;
    }
+   .cuarto{
+    margin-left: 440px;
+   }
    .quinto{
-    margin-left: 460px;
+    margin-left: 440px;
    }
    .sexto{
-    margin-left: 420px;
+    margin-left: 400px;
 }
 }
